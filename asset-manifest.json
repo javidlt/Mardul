@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Mardul/static/css/main.2bb92cd3.css",
+    "main.js": "/Mardul/static/js/main.7270ec96.js",
+    "static/js/787.c5afd35f.chunk.js": "/Mardul/static/js/787.c5afd35f.chunk.js",
+    "static/media/gato2.jpg": "/Mardul/static/media/gato2.1770b4155f263a2cd8ca.jpg",
+    "static/media/gato1.jpg": "/Mardul/static/media/gato1.f9c90001eac27a5eccc1.jpg",
+    "static/media/reptil1.jpg": "/Mardul/static/media/reptil1.fcb67baeea9a9dd37bb7.jpg",
+    "static/media/reptil2.jpg": "/Mardul/static/media/reptil2.0f7828ab0f239098398d.jpg",
+    "static/media/pajaro2.jpg": "/Mardul/static/media/pajaro2.eb4fb8827003317ade81.jpg",
+    "static/media/collagebw.png": "/Mardul/static/media/collagebw.3406d2c09ffabac9a53e.png",
+    "static/media/fotoVeterinario.png": "/Mardul/static/media/fotoVeterinario.b856313f91d9a233c7c8.png",
+    "static/media/pajaro1.jpeg": "/Mardul/static/media/pajaro1.f250be117488a12b06db.jpeg",
+    "static/media/Dogcall.png": "/Mardul/static/media/Dogcall.4b576d6c31adbbe2b75c.png",
+    "static/media/fotocollage6.jpg": "/Mardul/static/media/fotocollage6.b487f223145787034310.jpg",
+    "static/media/fotocollage3.jpg": "/Mardul/static/media/fotocollage3.7c4941de939ad173f408.jpg",
+    "static/media/whatsappiconlogo.svg": "/Mardul/static/media/whatsappiconlogo.c48b8613cd296859f4f15cdc9de45ecc.svg",
+    "index.html": "/Mardul/index.html",
+    "main.2bb92cd3.css.map": "/Mardul/static/css/main.2bb92cd3.css.map",
+    "main.7270ec96.js.map": "/Mardul/static/js/main.7270ec96.js.map",
+    "787.c5afd35f.chunk.js.map": "/Mardul/static/js/787.c5afd35f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bb92cd3.css",
+    "static/js/main.7270ec96.js"
+  ]
+}
