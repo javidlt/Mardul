@@ -1,0 +1,66 @@
+.UsBanner {
+    height: auto;
+}
+
+.subtitle {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.usTeamZone {
+    margin: 20px 0 40px 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 80px;
+    grid-row-gap: 0px;
+}
+
+.teamMember {
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+
+.memberImg {
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+    background-position: end center;
+    margin-bottom: 10px;
+}
+
+.memberName {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.memberPosition {
+    background-color: transparent;
+    font-family: 'Rubik', sans-serif;
+    border: 1px solid black;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 20px 15px 20px;
+    margin-bottom: 20px;
+    width: auto;
+    -webkit-box-shadow: 5px 5px 0px 1px #000000; 
+    box-shadow: 5px 5px 0px 1px #000000;
+}
+
+.memberDescription {
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+
+}
+
+
+@media (max-width: 900px) {
+    .usTeamZone {
+        grid-template-columns: repeat(1, 1fr);
+        grid-row-gap: 60px;
+    } 
+  }  
+  
+  

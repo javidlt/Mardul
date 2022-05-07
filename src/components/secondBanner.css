@@ -1,0 +1,63 @@
+#home {
+    background-image: url(../images/collagebw.png);
+    background-size: cover;
+    background-position: center center;
+    border-radius: 5px;
+    width: 100%;
+    display: flex;
+     align-items: center;
+    height: 50vh;
+    text-align: center;
+    margin: 0px 0px 0 0px;
+    justify-content: center;
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 60px;
+}
+
+.homeinsidepartseconfBanner {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-wrapper {
+    background: white;
+    border-radius: 5px;
+    font-family: 'Rubik', sans-serif;
+    height: 100px;
+    border: 1px solid;
+}
+
+.secondBannerInfoTop {
+  color: white;
+  background-color: black;
+  border-radius: 5px 5px 0 0;
+  font-family: 'Rubik', sans-serif;
+  font-size: 14px;
+  padding: 10px 15px;
+}
+
+.secondBannerInfoBottom {
+  color: black;
+  background-color: white;
+  border-radius: 0 0 5px 5px;
+  font-family: 'Rubik', sans-serif;
+  font-size: 14px;
+  padding: 10px 15px;
+  
+}
+
+.wow {
+  font-family: 'Rubik', sans-serif;
+}
+
+
+@media (max-width: 1000px) {
+  #home {
+    height: 50vh;
+   }
+   .home-wrapper {
+    width: 80%;
+  }
+}   

@@ -1,0 +1,111 @@
+.topbanner {
+    display: flex;
+    align-items: start;
+    margin: 40px 0 40px 0;
+    width: 100%;
+    height: auto;
+  /* align-items: start; */
+}
+
+.Columnone {
+    width: 50%;
+    margin-right: 65px;
+    height: auto;
+}
+
+.columnonecontainer {
+    width: 90%;
+}
+
+.topTextTopBanner {
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    color: #07964f;
+    margin-bottom: 0;
+}
+
+.topBannerh1 {
+    font-size: 55px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.topBannerh2 {
+    font-size: 20px;
+    font-family: 'Rubik', sans-serif;
+    margin-top: 0;
+}
+
+.buttonTopBanner {
+    background-color: transparent;
+    font-family: 'Rubik', sans-serif;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 20px 15px 20px;
+    margin-top: 20px;
+}
+
+.buttonTopBanner:hover {
+    -webkit-box-shadow: 5px 5px 0px 1px #000000; 
+    box-shadow: 5px 5px 0px 1px #000000;
+}
+
+.Columntwo {
+    width: 50%;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topBannerImg {
+    height: 700px;
+}
+
+@media (max-width: 1130px) {
+    .Columnone {
+        width: 80%;
+        text-align: center;
+        margin-right: 0px;
+    }
+    .Columntwo {
+        width: 80%;
+        text-align: center;
+        margin-right: 0px;
+    }
+    .topBannerImg {
+        height: 600px;
+    }
+}   
+
+@media (max-width: 1050px) {
+    .topBannerImg {
+        height: 550px;
+    }
+}   
+
+
+@media (max-width: 900px) {
+    .topbanner { 
+      display: grid;
+      text-align: center;
+        
+    } 
+    .Columnone {
+        width: 100%;
+        text-align: center;
+        margin-right: 0px;
+        display: flex;
+        justify-content: center;
+    }
+    .Columntwo {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 0px;
+    }
+}   
+
